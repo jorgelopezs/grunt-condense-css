@@ -1,5 +1,5 @@
 {
-  "name": "grunt-cssshrink",
+  "name": "grunt-condense-css",
   "description": "Grunt wrapper for cssshrink",
   "version": "0.0.8",
   "homepage": "https://github.com/JohnCashmore/grunt-cssshrink",
