@@ -10,7 +10,7 @@
 
 module.exports = function(grunt) {
 
-  grunt.registerMultiTask('cssshrink', 'Shrinks css.', function() {
+  grunt.registerMultiTask('condensecss', 'Shrinks css.', function() {
 
     // Require stuff
     var cssshrink = require('cssshrink');
